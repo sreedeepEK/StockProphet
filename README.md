@@ -12,12 +12,12 @@ This repository contains web application for predicting the future stock prices 
 
 ### Installation 
 
-1. Clone the repository:
+Clone the repository:
    
    ```
    git clone https://github.com/sreedeepEK/StockProphet
    ```
-2. Install the required dependencies:
+Install the required dependencies:
    
    ```
    pip install -r requirements.tx
@@ -28,9 +28,9 @@ This repository contains web application for predicting the future stock prices 
 
 Run the following command to launch the Streamlit app:
 
-```
-streamlit run app.py
-```
+   ```
+   streamlit run app.py
+   ```
 ### License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
