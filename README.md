@@ -1,5 +1,6 @@
 ## StockProphet
 
+See [StockProphet](https://huggingface.co/spaces/sreedeepEK/StockProphet) live in HuggingFace Space.
 ### Overview
 
 This repository contains web application for predicting the future stock prices of selected companies. The app  uses stock price data retrieved from Yahoo Finance, performs time series forecasting using the Prophet library, and visualizes the forecasted prices and components.
