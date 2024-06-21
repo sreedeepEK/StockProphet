@@ -7,7 +7,7 @@ This repository contains web application for predicting the future stock prices 
 
 ### Features
 
-- Select a company (AAPL, GOOG, MSFT) and specify the number of years for prediction.
+- Select a company (AAPL, GOOG, MSFT,NVD) and specify the number of years for prediction.
 - View the raw dataset, forecasted dataset, and forecast plot.
 - Visualize forecast components such as trend, seasonality, and holidays.
 
